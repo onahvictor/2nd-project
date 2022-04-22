@@ -1,1 +1,1 @@
-# 2nd-project (Password Generator)
+Simple Password Generator
